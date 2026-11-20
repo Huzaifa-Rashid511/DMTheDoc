@@ -33,8 +33,8 @@ The project demonstrates frontend development skills, responsive layouts, and in
 DMTheDoc/
 │
 ├── index.html
-├── css/
-├── js/
+├── style.css
+├── script.js
 ├── images/
 └── README.md
 ```
